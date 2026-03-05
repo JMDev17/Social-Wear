@@ -2,6 +2,7 @@
   "name": "social-wear",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jmdev17.github.io/Social-Wear",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -24,6 +25,7 @@
     "babel-plugin-styled-components": "^2.1.4",
     "eslint": "^9",
     "eslint-config-next": "16.1.6",
+    "gh-pages": "^6.3.0",
     "typescript": "^5"
   }
 }
